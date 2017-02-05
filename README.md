@@ -1,20 +1,11 @@
 Bootstrap Context Menu
 ======================
 
-#This project is unmaintained. Please use the alternative https://github.com/swisnl/jQuery-contextMenu.
+#This project is a fork of https://github.com/sydcanem/bootstrap-contextmenu
 
-I have an issue with the plugin but I would still like to use it.
+This project is unmaintained but I prefer it to its alternative, jQuery-contextMenu, due to its light weight.
 
--- Please fork the project and do your fixes.
-
-Where can I get support if can't fix some issue?
-
--- You can check the issues page or pull request page if someone has a fix for your problem and merge it with your fork.
-
-I still can't find fixes of my issues.
-
--- Get plenty of sleep. :)
-
+I've forked it mainly to publish it to `npm`, as I'm a fan of `webpack`. I will accept contributions and pull requests, issues, or even transfer the right to the project or the npm registry to someone more motivated than I am.
 
 ## A context menu extension of Bootstrap made for everyone's convenience.
 
@@ -24,7 +15,7 @@ See a [demo page] [id].
 Installation
 ------------
 
-`bower install bootstrap-contextmenu`
+`npm install bootstrap-contextmenu`
 
 Note: Requires bootstrap.css
 
